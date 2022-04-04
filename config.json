@@ -1,0 +1,9 @@
+{
+	"ip":"vndrxc.aternos.me",
+	"port": "25965",
+	"name": "botfd",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register pass123 ",
+	"login-cmd":"/login pass123 "
+}
